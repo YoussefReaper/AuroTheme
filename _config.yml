@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: auro-theme
+description: "Auro theme made for all my auro's projects"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
